@@ -1,0 +1,24 @@
+{
+  "name": "convert-to-roman",
+  "version": "1.4.0",
+  "description": "Convert roman numerals to decimals and vice versa. Loop through the roman numerals",
+  "main": "index.js",
+  "keywords": [
+    "convert",
+    "roman",
+    "decimal",
+    "npm"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richardshaju/convert-to-roman.git"
+  },
+  "dependencies": {
+    "convert-to-roman": "^1.4.0"
+  }
+}
